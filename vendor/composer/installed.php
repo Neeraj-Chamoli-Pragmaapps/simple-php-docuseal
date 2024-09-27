@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'docuseal/simple-app',
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
-        'reference' => 'e7e20f4c30e2333a5129538d1ca9b684d8739523',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'eba2f722143be6fa0a47611a1334f9f8a38b6555',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'docuseal/simple-app' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'reference' => 'e7e20f4c30e2333a5129538d1ca9b684d8739523',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'eba2f722143be6fa0a47611a1334f9f8a38b6555',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
